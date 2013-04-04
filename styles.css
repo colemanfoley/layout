@@ -1,0 +1,44 @@
+body {
+  /* rules go here */
+}
+nav {
+  background: black;
+  color:lightgray;
+  margin-top:-15px;
+  height:25px;
+}
+li {
+  display:inline;
+  text-decoration:None;
+  padding-right:15px;
+}
+.logo {
+  margin-top: 150px;
+  text-align: center;
+}
+form {
+    display: inline-block;
+    text-align: center;
+    width:100%;
+}
+input {
+  width: 400px;
+  height: 25px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  height: 25px;
+}
+
+footer{
+position: fixed;
+bottom: 0;
+color:gray;
+width:100%;
+border-top-color: #CCC;
+}
+footer ul {
+  text-align: right;
+}
